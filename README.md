@@ -19,7 +19,7 @@
 - 💼 Currently working as a **Software Engineer @ Elsevier / Insight Global**
 - 🌍 Based in **Votorantim, São Paulo, Brasil**
 - 🖥️ Full Stack developer with experience in enterprise-scale applications, accessibility, and localization
-- 🎓 Specialization in Software Engineering — PUC Minas | B.Sc. in Information Systems — FATEC
+- 🎓 Specialization in Software Engineering - PUC Minas | B.Sc. in Information Systems - FATEC
 - 📫 Reach me at [roberto.hmp@hotmail.com](mailto:roberto.hmp@hotmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rhenrique1/)
 
 ---
@@ -77,16 +77,16 @@
 
 ## 💼 Professional Experience
 
-**Software Engineer — Elsevier / Insight Global** *(11/2025 – Present)*
+**Software Engineer - Elsevier / Insight Global** *(11/2025 – Present)*
 > Full Stack Development with React, Handlebars, jQuery & .NET. Accessibility and modernization of an application used by healthcare professionals.
 
-**Software Developer — Reply** *(09/2025 – 11/2025)*
+**Software Developer - Reply** *(09/2025 – 11/2025)*
 > Full Stack Development with .NET, Azure DevOps, Oracle SQL & React. Maintained and created new features for internal software applications for Stellantis.
 
-**Software Developer — FIT – Flex Institute of Technology** *(05/2021 – 08/2025)*
+**Software Developer - FIT – Flex Institute of Technology** *(05/2021 – 08/2025)*
 > Full Stack Development with Angular, .NET, React, C#, TypeScript, Jenkins, Blazor, WebApi, EF Core, SQL Server & Azure DevOps. Key contributor to **Lenovo Vantage – Hardware Scan**, shipped on every Lenovo computer worldwide. Implemented accessibility and localization fixes for 30+ languages. Also developed an internal software development platform for Flex using Blazor, .NET and SQL Server.
 
-**Web Developer — Well Internet** *(07/2020 – 03/2021)*
+**Web Developer - Well Internet** *(07/2020 – 03/2021)*
 > Web Development and Database Management with PHP, JavaScript, jQuery, Ajax & MySQL. Maintained one of the largest school ERPs in Brazil and developed automated school report card templates.
 
 ---
